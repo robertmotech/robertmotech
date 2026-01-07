@@ -48,6 +48,9 @@ Fortinet NSE 1 (in progress)
 
 Cisco CCST (in progress)
 
+Cisco Introduction to Cybersecurity Verified
+https://www.credly.com/badges/10ab9295-54e3-4145-b81e-812c87483f4f/public_url
+
 
 
 _____________________________________________________________________________________________________________________
