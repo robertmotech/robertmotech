@@ -1,16 +1,38 @@
-## Hi there 👋
+Robert Mo
+IT Support & Systems Analyst
 
-<!--
-**robertmotech/robertmotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about troubleshooting, Linux, and network security. **Building a foundation for a career in tech support.**
+**Achievements **
+World Record Holder: 3DMark Steel Nomad DX12 
+CyberPatriot National Finalist
 
-Here are some ideas to get you started:
+_**Skills **_
+**Operating Systems**
+Windows (10/11) 
+Linux (Ubuntu, Debian) 
+macOS (intermediate) 
+**Networking **
+TCP/IP, DNS, DHCP 
+**Troubleshooting **
+Hardware, software, peripherals POS, printers, AV systems 
+**Security **
+Linux hardening, basic firewall setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools **
+Wireshark, Nmap, Zenmap, Terminal 
+
+**Certifications **
+Fortinet NSE 1 (in progress) 
+Cisco CCST (in progress)
+
+**Experience **
+_Independent Projects_
+Troubleshot Windows & Linux issues for friends 
+Optimized systems for stability & performance
+
+
+
+Contact Email: syntexerror732@gmail.com
+GitHub: robertmotech
+
+Notes “I am under 18, but I am fully capable of performing duties in IT support, technical support, or similar roles. No phone or travel required.”
