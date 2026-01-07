@@ -2,30 +2,30 @@ Robert Mo
 IT Support & Systems Analyst
 
 Passionate about troubleshooting, Linux, and network security. **Building a foundation for a career in tech support.**
-**Achievements **
+**Achievements**
 World Record Holder: 3DMark Steel Nomad DX12 
 CyberPatriot National Finalist
 
-_**Skills **_
+_**Skills**_
 **Operating Systems**
 Windows (10/11) 
 Linux (Ubuntu, Debian) 
 macOS (intermediate) 
-**Networking **
+**Networking**
 TCP/IP, DNS, DHCP 
-**Troubleshooting **
+**Troubleshooting**
 Hardware, software, peripherals POS, printers, AV systems 
-**Security **
+**Security**
 Linux hardening, basic firewall setup
 
-**Tools **
+**Tools**
 Wireshark, Nmap, Zenmap, Terminal 
 
-**Certifications **
+**Certifications**
 Fortinet NSE 1 (in progress) 
 Cisco CCST (in progress)
 
-**Experience **
+**Experience**
 _Independent Projects_
 Troubleshot Windows & Linux issues for friends 
 Optimized systems for stability & performance
